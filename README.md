@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing Bachelor's in Computer Application<br>👯 I’m looking to collaborate on discussing or sharing ideas.<br><br>🌱 I’m currently proficient in languages like C, Javascript, Java, and Golang<br><br>⚡. My journey in computer science began with a fascination for solving complex problems and creating innovative solutions
+🔭 I’m currently pursuing Bachelor's in Computer Application<br>👯 I’m looking to collaborate on discussing or sharing ideas.<br><br>🌱 I’m currently proficient in languages like C, Javascript, Java,Python and Golang<br><br>⚡. My journey in computer science began with a fascination for solving complex problems and creating innovative solutions
 
 
 ## 🌐 Socials:
