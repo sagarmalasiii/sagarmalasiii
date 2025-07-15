@@ -53,10 +53,8 @@ Learning with: _Hands-On ML with Scikit-Learn, Keras, and TensorFlow_
 ---
 
 ## 📫 Let's Connect
-
-- 📧 Email: [sagarmalasi@gmail.com](mailto:sagarmalasi@gmail.com)  
+ 
 - 💼 LinkedIn: [linkedin.com/in/sagarmalasi](https://linkedin.com/in/sagarmalasi)  
-
 
 ---
 
