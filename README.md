@@ -1,63 +1,58 @@
-# 👋 Hello, I'm Sagar Malasi
+<h1 align="center">Hi 👋, I'm Sagar Malasi</h1>
+<h3 align="center">Python/Django Backend Developer | DevOps Learner | Open to Remote Work</h3>
 
-🎓 3rd Year IT Student | 💻 Aspiring Backend & Machine Learning Engineer  
-📍 Based in Kathmandu, Nepal | 🌐 Open to Remote Internships & Freelance Work
-
----
-
-## 🚀 About Me
-
-I'm a passionate developer building real-world solutions using **Python**, **Django**, and **Machine Learning**.  
-Currently, I'm working on:
-
-- 🧠 Becoming a **job-ready Machine Learning Engineer**
-- 🔧 Building a **Room Rental SaaS Platform** to help people find verified rooms/flats in cities like Kathmandu
-- 📦 Strengthening my backend expertise with **Django**, **FastAPI**, **PostgreSQL**, **REST APIs**, and **JWT Auth**
-
-I balance my coding journey with college and daily responsibilities — aiming to **learn deeply and build consistently**.
+<p align="center">
+  <a href="mailto:iamsagarmalasi@gmail.com"><img src="https://img.shields.io/badge/Email-iamsagarmalasi@gmail.com-red?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/sagarmalasiii"><img src="https://img.shields.io/badge/LinkedIn-Sagar_Malasi-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/sagarmalasiii"><img src="https://img.shields.io/badge/GitHub-sagarmalasiii-black?style=flat-square&logo=github"></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 💻 About Me
 
-**Backend:**  
-`Python`, `Django`, `FastAPI`, `PostgreSQL`, `SQLite`  
-
-**Frontend:**  
-`HTML`, `CSS`, `JavaScript`, `React (in progress)`
-
-**Machine Learning:**  
-`scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `Jupyter`  
-Learning with: _Hands-On ML with Scikit-Learn, Keras, and TensorFlow_
-
-**Tools:**  
-`Git`, `GitHub`, `Linux`, `VS Code`, `Docker (learning)`
+- 🎓 I'm a Computer Science student based in Kathmandu, Nepal  
+- 🚀 Currently building scalable backend APIs using **Django & Django REST Framework**
+- 🌱 Learning **DevOps tools**: Docker, Kubernetes, Terraform, and AWS
+- 🌍 Open to **remote internships**, **freelance projects**, and junior backend roles
+- 📫 How to reach me: **iamsagarmalasi@gmail.com**
 
 ---
 
-## 📚 Current Projects
+### 🛠️ Tech Stack
 
-- 🏘️ **RoomFinder Platform** – Helping students and families find verified rentals in Kathmandu  
-- 🧠 **ML Learning Track** – Applying Linear Algebra, Statistics, and ML algorithms on real datasets  
-- 🛍️ **Django E-commerce App** – With payment gateways (Khalti), wishlist, and reviews
-
----
-
-## 📈 Goals (2025)
-
-- ✅ Build standout projects for my portfolio  
-- 🔍 Land remote Python/Django internship or freelance gig  
-- 🌍 Contribute to open-source or impactful real-world tools  
-- 🧠 Master ML & Deep Learning with real applications
+**Languages:** Python, JavaScript, PHP  
+**Frameworks:** Django, DRF, Bootstrap  
+**Databases:** PostgreSQL, MySQL, SQLite  
+**Tools:** Git, GitHub, Docker, Celery, Redis, Terraform, AWS (S3, Lambda), GitHub Actions  
+**Other:** REST APIs, CI/CD, MVC, Agile, Linux
 
 ---
 
-## 📫 Let's Connect
- 
-- 💼 LinkedIn: [linkedin.com/in/sagarmalasi](https://linkedin.com/in/sagarmalasi)  
+### ⚡ Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [AWS File Uploader API](https://github.com/sagarmalasiii/aws-s3-uploader) | Upload, list, and delete files on AWS S3 using Django REST | Django, Boto3, S3 |
+| [Task Tracker with Email Reminders](https://github.com/sagarmalasiii/task-tracker-api) | Sends auto email reminders 10 mins before task due | Django, Celery, Redis |
+| [E-commerce Website](https://github.com/sagarmalasiii/ecommerce_) | Full-featured eCommerce platform with Stripe | Django, PostgreSQL |
 
 ---
 
-_“Learning with purpose, building with impact.”_
+### 📈 GitHub Stats
 
-⭐️ If you like what I do, consider following me and checking out my projects!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarmalasiii&show_icons=true&theme=tokyonight" alt="Sagar's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarmalasiii&theme=tokyonight" alt="Sagar's GitHub Streak" />
+</p>
+
+---
+
+### 📌 Let's Connect!
+
+If you're hiring, collaborating, or mentoring — feel free to reach out!  
+I'm always open to contributing to open-source, remote teams, and interesting backend challenges 🚀
+
+---
+
