@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Malasi</h1>
-<h3 align="center">Python/Django Backend Developer | DevOps Learner | Open to Remote Work</h3>
+<h3 align="center">Full Stack Developer | DevOps Learner | Machine Learning Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:iamsagarmalasi@gmail.com"><img src="https://img.shields.io/badge/Email-iamsagarmalasi@gmail.com-red?style=flat-square"></a>
@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack
 
 **Languages:** Python, JavaScript, PHP  
-**Frameworks:** Django, DRF, Bootstrap  
+**Frameworks:** Django, DRF, Tailwind, Next js, Typescript 
 **Databases:** PostgreSQL, MySQL, SQLite  
 **Tools:** Git, GitHub, Docker, Celery, Redis, Terraform, AWS (S3, Lambda), GitHub Actions  
 **Other:** REST APIs, CI/CD, MVC, Agile, Linux
