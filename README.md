@@ -12,7 +12,7 @@
 ### 💻 About Me
 
 - 🎓 I'm a Computer Science student based in Kathmandu, Nepal  
-- 🚀 Currently building scalable backend APIs using **Django & Django REST Framework**
+- 🚀 Currently building scalable backend APIs using **Java Spring Boot**
 - 🌱 Learning **DevOps tools**: Docker, Kubernetes, Terraform, and AWS
 - 🌍 Open to **remote internships**, **freelance projects**, and junior backend roles
 - 📫 How to reach me: **iamsagarmalasi@gmail.com**
@@ -21,8 +21,8 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, PHP  
-**Frameworks:** Django, DRF, Tailwind, Next js, Typescript 
+**Languages:** Python, JavaScript, PHP, Java 
+**Frameworks:** Spring Bott, React js, Tailwind, Next js, Typescript 
 **Databases:** PostgreSQL, MySQL, SQLite  
 **Tools:** Git, GitHub, Docker, Celery, Redis, Terraform, AWS (S3, Lambda), GitHub Actions  
 **Other:** REST APIs, CI/CD, MVC, Agile, Linux
