@@ -2,7 +2,7 @@
 I'm Sagar, a aspiring software engineer.
 
 ## Tech Stack
-  * Spring Boot, Next.js, Typescript, React.js
+  * Spring Boot, Next.js, Typescript, React.js,PHP
 
 
 
