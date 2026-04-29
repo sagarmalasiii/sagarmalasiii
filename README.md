@@ -1,5 +1,5 @@
 # Hello!
-I'm Sagar, a aspiring software engineer.
+I’m Sagar, and I enjoy working with APIs and backend systems.
 
 ## Contact Me
 
