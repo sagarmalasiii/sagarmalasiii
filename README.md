@@ -1,5 +1,5 @@
 Hi there 👋, I'm Sagar
-Backend Developer | DevOps Enthusiast | Cloud Learner
+
 
 I'm a software engineer passionate about building scalable backend systems, automating infrastructure, and learning how distributed systems operate at scale.
 
