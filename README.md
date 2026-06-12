@@ -1,9 +1,9 @@
 Hi there 👋, I'm Sagar
 
+I'm a software engineer focused on backend development and Machine Learning.
 
-I'm a software engineer passionate about building scalable backend systems, automating infrastructure, and building Machine Learning Models.
+I enjoy building scalable APIs, backend services, and ML-powered applications using Python, Go, and modern cloud technologies.
 
-I enjoy working with Python, Go, cloud-native technologies, CI/CD pipelines, Machine Learning, and Artificial Intelligence. 
 
 ## Contact Me
 
